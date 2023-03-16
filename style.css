@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+.Line{
+height: 10px;
+width: 70px;
+margin: auto;
+background-color: coral;
+border-radius: 25%;
+}
+#apps{
+    background-color:antiquewhite;
+}
+#apps iframe{
+    margin: 15px;
+}
+#games img{
+height: 350px;
+width: 350px;
+border-radius: 50px;
+margin: 15px;
+}
+#games{
+    background-color: #7fffd4;
+}
